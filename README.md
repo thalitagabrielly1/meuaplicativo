@@ -1,6 +1,6 @@
-# myapp
+# Aplicativo Layout
 
-A new Flutter project.
+Criação de um Layout responsivo para a criar aplicativos WEB.
 
 ## Getting Started
 
